@@ -103,6 +103,10 @@ CC0や著作権フリーではないため、ご注意ください。<br>
     </tr>
 </table>
 
+# Reference
+360度画像のプレビュー表示に以下を使用しています。
+* [mpetroff/pannellum](https://github.com/mpetroff/pannellum)
+
 # Author
 高橋かずひと(https://twitter.com/KzhtTkhs)
  
