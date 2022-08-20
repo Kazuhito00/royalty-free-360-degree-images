@@ -34,7 +34,7 @@ CC0や著作権フリーではないため、ご注意ください。<br>
     <tr>
         <td width="100">
             和室01<br>
-            <a href="https://github.com/Kazuhito00/royalty-free-360-degree-images/raw/main/image/japanese-style-room-01.jpg">[Donwload]</a><br>
+            <a href="http://drive.google.com/uc?export=view&id=1Pi6bPiIlRu1-2VAAokTUzuvcC_d0XiMt">[Donwload]</a><br>
             <a href="https://kazuhito00.github.io/royalty-free-360-degree-images/viewer/japanese-style-room-01.html">[Preview]</a>
         </td>
         <td width="220">
@@ -42,7 +42,7 @@ CC0や著作権フリーではないため、ご注意ください。<br>
         </td>
         <td width="100">
             和室02<br>
-            <a href="https://github.com/Kazuhito00/royalty-free-360-degree-images/raw/main/image/japanese-style-room-02.jpg">[Donwload]</a><br>
+            <a href="http://drive.google.com/uc?export=view&id=1b5OGqReUPr10GBt_OiMmSB1-8qJDwaa0">[Donwload]</a><br>
             <a href="https://kazuhito00.github.io/royalty-free-360-degree-images/viewer/japanese-style-room-02.html">[Preview]</a>
         </td>
         <td width="220">
