@@ -48,60 +48,60 @@ CC0や著作権フリーではないため、ご注意ください。<br>
         <td width="420">
             <img src="https://user-images.githubusercontent.com/37477845/185745324-a339af89-e135-4d3a-8a26-e9ad6f353fe3.jpg" loading="lazy" width="400px">
         </td>
-        <!--
+    </tr>
+    <tr>
         <td width="100">
             階段01<br>
-            <a href="https://github.com/Kazuhito00/royalty-free-360-degree-images/raw/main/image/stairs-01.jpg">[Donwload]</a><br>
-            <a href="https://kazuhito00.github.io/royalty-free-360-degree-images/viewer/stairs-01.html">[Preview]</a>
+            <a href="https://drive.google.com/file/d/1Kn65fTGuf5iaK5ofLHyybitNfLbPWLQi">[Donwload]</a><br>
         </td>
-        <td width="220">
-            <img src="https://user-images.githubusercontent.com/37477845/185741979-6cc68d8f-5a7b-449a-bbab-9a5c64111f04.png" loading="lazy" width="200px">
+        <td width="420">
+            <img src="https://user-images.githubusercontent.com/37477845/185745542-233a7ac7-06e2-443a-9587-66229f171155.jpg" loading="lazy" width="400px">
         </td>
     </tr>
     <tr>
         <td width="100">
             階段02<br>
-            <a href="https://github.com/Kazuhito00/royalty-free-360-degree-images/raw/main/image/stairs-02.jpg">[Donwload]</a><br>
-            <a href="https://kazuhito00.github.io/royalty-free-360-degree-images/viewer/stairs-02.html">[Preview]</a>
+            <a href="https://drive.google.com/file/d/1PlReqFHGBBe4b6y-An7pf-cXoBm0Ifx8">[Donwload]</a><br>
         </td>
-        <td width="220">
-            <img src="https://user-images.githubusercontent.com/37477845/185742009-df0b0efa-1a6e-43cc-a398-c29108110975.png" loading="lazy" width="200px">
+        <td width="420">
+            <img src="https://user-images.githubusercontent.com/37477845/185745544-6fa99ded-9e40-45d0-88cd-5c1a06697360.jpg" loading="lazy" width="400px">
         </td>
+    </tr>
+    <tr>
         <td width="100">
             トイレ01<br>
-            <a href="https://github.com/Kazuhito00/royalty-free-360-degree-images/raw/main/image/toilet-01.jpg">[Donwload]</a><br>
-            <a href="https://kazuhito00.github.io/royalty-free-360-degree-images/viewer/toilet-01.html">[Preview]</a>
+            <a href="https://drive.google.com/file/d/1PlReqFHGBBe4b6y-An7pf-cXoBm0Ifx8">[Donwload]</a><br>
         </td>
-        <td width="220">
-            <img src="https://user-images.githubusercontent.com/37477845/185742080-ba8cc525-ccc8-4c04-99fd-f5ab9498f114.png" loading="lazy" width="200px">
+        <td width="420">
+            <img src="https://user-images.githubusercontent.com/37477845/185745636-45f89763-8be3-4403-a1e7-cb3f106d6619.jpg" loading="lazy" width="400px">
         </td>
+    </tr>
+    <tr>
         <td width="100">
-            02<br>
-            <a href="https://github.com/Kazuhito00/royalty-free-360-degree-images/raw/main/image/toilet-02.jpg">[Donwload]</a><br>
-            <a href="https://kazuhito00.github.io/royalty-free-360-degree-images/viewer/toilet-02.html">[Preview]</a>
+            トイレ02<br>
+            <a href="https://drive.google.com/file/d/1AOeKwLF9Q3-H08vBLCsOPCBTZEsZaft-">[Donwload]</a><br>
         </td>
-        <td width="220">
-            <img src="https://user-images.githubusercontent.com/37477845/185742100-34c089eb-be0f-406d-ba91-aa5b18323e2c.png" loading="lazy" width="200px">
+        <td width="420">
+            <img src="https://user-images.githubusercontent.com/37477845/185745637-9893c0af-6639-4aee-84ab-2fb0753599aa.jpg" loading="lazy" width="400px">
         </td>
     </tr>
     <tr>
         <td width="100">
             洋室01<br>
-            <a href="https://github.com/Kazuhito00/royalty-free-360-degree-images/raw/main/image/western-style room-01.jpg">[Donwload]</a><br>
-            <a href="https://kazuhito00.github.io/royalty-free-360-degree-images/viewer/western-style room-01.html">[Preview]</a>
+            <a href="https://drive.google.com/file/d/1PeIECL5jzDcPs2I-1IEERmKpv58exdK1">[Donwload]</a><br>
         </td>
-        <td width="220">
-            <img src="https://user-images.githubusercontent.com/37477845/185742197-6c4bf47e-77e3-4064-9515-8a7075b19cf1.png" loading="lazy" width="200px">
+        <td width="420">
+            <img src="https://user-images.githubusercontent.com/37477845/185745652-d506dd08-3fe6-46a3-9f5d-cc5555290220.jpg" loading="lazy" width="400px">
         </td>
+    </tr>
+    <tr>
         <td width="100">
             洋室02<br>
-            <a href="https://github.com/Kazuhito00/royalty-free-360-degree-images/raw/main/image/western-style room-02.jpg">[Donwload]</a><br>
-            <a href="https://kazuhito00.github.io/royalty-free-360-degree-images/viewer/western-style room-02.html">[Preview]</a>
+            <a href="https://drive.google.com/file/d/1g9-XGmcCsoygV5Q4Q7RgNhV22nnN1nIY">[Donwload]</a><br>
         </td>
-        <td width="220">
-            <img src="https://user-images.githubusercontent.com/37477845/185742239-859e18e3-9e20-4983-bc7f-239b4625316a.png" loading="lazy" width="200px">
+        <td width="420">
+            <img src="https://user-images.githubusercontent.com/37477845/185745653-8b029487-f10a-41bc-90f1-f3211b4647b8.jpg" loading="lazy" width="400px">
         </td>
-        -->
     </tr>
 </table>
 
