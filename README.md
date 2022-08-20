@@ -48,6 +48,7 @@ CC0や著作権フリーではないため、ご注意ください。<br>
         <td width="220">
             <img src="https://user-images.githubusercontent.com/37477845/185741833-ffbf3814-6ea4-458c-a6aa-50e0b6ee2e49.png" loading="lazy" width="200px">
         </td>
+        <!--
         <td width="100">
             階段01<br>
             <a href="https://github.com/Kazuhito00/royalty-free-360-degree-images/raw/main/image/stairs-01.jpg">[Donwload]</a><br>
@@ -100,6 +101,7 @@ CC0や著作権フリーではないため、ご注意ください。<br>
         <td width="220">
             <img src="https://user-images.githubusercontent.com/37477845/185742239-859e18e3-9e20-4983-bc7f-239b4625316a.png" loading="lazy" width="200px">
         </td>
+        -->
     </tr>
 </table>
 
