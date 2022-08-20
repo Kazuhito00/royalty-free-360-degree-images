@@ -36,17 +36,17 @@ CC0や著作権フリーではないため、ご注意ください。<br>
             和室01<br>
             <a href="https://drive.google.com/file/d/1Pi6bPiIlRu1-2VAAokTUzuvcC_d0XiMt">[Donwload]</a><br>
         </td>
-        <td width="620">
-            <img src="https://user-images.githubusercontent.com/37477845/185745322-ad078b52-5536-46ce-b8e9-a7a9059dbb8a.jpg" loading="lazy" width="600px">
+        <td width="420">
+            <img src="https://user-images.githubusercontent.com/37477845/185745322-ad078b52-5536-46ce-b8e9-a7a9059dbb8a.jpg" loading="lazy" width="400px">
         </td>
+    </tr>
+    <tr>
         <td width="100">
             和室02<br>
             <a href="https://drive.google.com/file/d/1b5OGqReUPr10GBt_OiMmSB1-8qJDwaa0">[Donwload]</a><br>
         </td>
-    </tr>
-    <tr>
-        <td width="620">
-            <img src="https://user-images.githubusercontent.com/37477845/185745324-a339af89-e135-4d3a-8a26-e9ad6f353fe3.jpg" loading="lazy" width="600px">
+        <td width="420">
+            <img src="https://user-images.githubusercontent.com/37477845/185745324-a339af89-e135-4d3a-8a26-e9ad6f353fe3.jpg" loading="lazy" width="400px">
         </td>
         <!--
         <td width="100">
