@@ -35,18 +35,18 @@ CC0や著作権フリーではないため、ご注意ください。<br>
         <td width="100">
             和室01<br>
             <a href="https://drive.google.com/file/d/1Pi6bPiIlRu1-2VAAokTUzuvcC_d0XiMt">[Donwload]</a><br>
-            <a href="https://kazuhito00.github.io/royalty-free-360-degree-images/viewer/japanese-style-room-01.html">[Preview]</a>
         </td>
-        <td width="220">
-            <img src="https://user-images.githubusercontent.com/37477845/185741443-65dda27c-5af8-43e4-a6c4-89b22e0fc207.png" loading="lazy" width="200px">
+        <td width="620">
+            <img src="https://user-images.githubusercontent.com/37477845/185745322-ad078b52-5536-46ce-b8e9-a7a9059dbb8a.jpg" loading="lazy" width="600px">
         </td>
         <td width="100">
             和室02<br>
             <a href="https://drive.google.com/file/d/1b5OGqReUPr10GBt_OiMmSB1-8qJDwaa0">[Donwload]</a><br>
-            <a href="https://kazuhito00.github.io/royalty-free-360-degree-images/viewer/japanese-style-room-02.html">[Preview]</a>
         </td>
-        <td width="220">
-            <img src="https://user-images.githubusercontent.com/37477845/185741833-ffbf3814-6ea4-458c-a6aa-50e0b6ee2e49.png" loading="lazy" width="200px">
+    </tr>
+    <tr>
+        <td width="620">
+            <img src="https://user-images.githubusercontent.com/37477845/185745324-a339af89-e135-4d3a-8a26-e9ad6f353fe3.jpg" loading="lazy" width="600px">
         </td>
         <!--
         <td width="100">
