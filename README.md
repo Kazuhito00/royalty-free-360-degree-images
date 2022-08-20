@@ -70,7 +70,7 @@ CC0や著作権フリーではないため、ご注意ください。<br>
     <tr>
         <td width="100">
             トイレ01<br>
-            <a href="https://drive.google.com/file/d/1PlReqFHGBBe4b6y-An7pf-cXoBm0Ifx8">[Donwload]</a><br>
+            <a href="https://drive.google.com/file/d/1obGxrWwQl0gKCcBG0H2l3mLtGwBjwzd6">[Donwload]</a><br>
         </td>
         <td width="420">
             <img src="https://user-images.githubusercontent.com/37477845/185745636-45f89763-8be3-4403-a1e7-cb3f106d6619.jpg" loading="lazy" width="400px">
