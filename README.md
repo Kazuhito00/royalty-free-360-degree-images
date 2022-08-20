@@ -27,24 +27,20 @@ CC0や著作権フリーではないため、ご注意ください。<br>
 素材の利用に際し、発生した損害・トラブルについて一切の責任を負いません。<br>
 不適切な行為(犯罪、第三者への迷惑行為、その他 不適切と判断した行為)での利用時には差し止めを行う権利があるものとします。<br>
 
-<!--
 # Contents
 
 <table>
     <tr>
         <td width="200">
-            Image
+            和室01<br>
+            <a href="https://github.com/Kazuhito00/royalty-free-360-degree-images/raw/main/image/japanese-style-room-01.jpg">[Donwload]</a><br>
+            <a href="https://kazuhito00.github.io/royalty-free-360-degree-images/viewer/japanese-style-room-01.html">[Preview]</a>
         </td>
         <td width="320">
-            <img src="https://user-images.githubusercontent.com/37477845/172031017-fd0107a5-2a33-4e47-a18b-ea53213f65e1.png" loading="lazy" width="300px">
-        </td>
-        <td width="760">
-            静止画(bmp, jpg, png, gif)を読み込み、画像を出力するノード<br>
-            「Select Image」ボタンでファイルダイアログをオープン
+            <img src="https://user-images.githubusercontent.com/37477845/185741443-65dda27c-5af8-43e4-a6c4-89b22e0fc207.png" loading="lazy" width="300px">
         </td>
     </tr>
 </table>
--->
 
 # Author
 高橋かずひと(https://twitter.com/KzhtTkhs)
