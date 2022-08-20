@@ -42,7 +42,7 @@ CC0や著作権フリーではないため、ご注意ください。<br>
         </td>
         <td width="100">
             和室02<br>
-            <a href="https://github.com/Kazuhito00/royalty-free-360-degree-images/raw/main/image/japanese-style-room-0.jpg">[Donwload]</a><br>
+            <a href="https://github.com/Kazuhito00/royalty-free-360-degree-images/raw/main/image/japanese-style-room-02.jpg">[Donwload]</a><br>
             <a href="https://kazuhito00.github.io/royalty-free-360-degree-images/viewer/japanese-style-room-02.html">[Preview]</a>
         </td>
         <td width="220">
